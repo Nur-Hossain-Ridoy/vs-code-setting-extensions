@@ -5,3 +5,4 @@
 5. Live Server
 6. Es Lint
 7. Material Icon Theme
+8. Path Auto Complete
