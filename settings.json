@@ -17,6 +17,7 @@
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.fontFamily": "Fira Code",
   "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
   "workbench.startupEditor": "none",
   "terminal.integrated.defaultProfile.linux": "bash",
   "workbench.colorCustomizations": {
