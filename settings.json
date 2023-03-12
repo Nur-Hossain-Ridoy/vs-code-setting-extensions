@@ -16,8 +16,9 @@
   "terminal.integrated.fontSize": 17,
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.fontFamily": "Fira Code",
+  "terminal.integrated.cursorStyle": "line",
   "workbench.startupEditor": "none",
-  "terminal.integrated.defaultProfile.linux": "JavaScript Debug Terminal",
+  "terminal.integrated.defaultProfile.linux": "bash",
   "workbench.colorCustomizations": {
     "statusBar.background": "#191825",
     // active tab
@@ -25,6 +26,7 @@
     "tab.activeForeground": "#fff",
     "tab.activeBorder": "#16FF00",
     "tab.hoverBackground": "#7286D3",
-    "tab.hoverForeground": "#fff",
-  }
+    "tab.hoverForeground": "#fff",  
+  },
+  "tabnine.experimentalAutoImports": true
 }
