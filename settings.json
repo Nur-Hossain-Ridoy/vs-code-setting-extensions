@@ -3,7 +3,7 @@
   // editor
   "editor.fontFamily": "Fira Code, Operator Mono",
   "editor.fontSize": 16,
-  "workbench.colorTheme": "Default Dark+ Experimental",
+  "workbench.colorTheme": "Visual Studio Dark",
   "editor.fontLigatures": true,
   "editor.wordWrap": "on",
   "editor.minimap.enabled": true,
@@ -29,5 +29,6 @@
     "tab.hoverBackground": "#7286D3",
     "tab.hoverForeground": "#fff",  
   },
-  "tabnine.experimentalAutoImports": true
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "material-icon-theme"
 }
